@@ -1,0 +1,190 @@
+wallet password (BOS)--PW5KBKdh1HaVHtEfLhnUb6zYnP1gPjQMBSSNRKGPBL1UjQyHVF1kd
+
+
+
+
+private key--5K7Za2svF13srBPVPxDEuzrugynJSNVNZi5zB1tHirhqhG2FFaD
+
+(imported private key)
+
+
+public key---BOS61u3va4gZjoeC54eKw3KDCPhqPgEQez24i6W8ea7zxw2JYqFUY
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Private key: 5K7MwnwA5SW79LQHJAXGuasf2Qved3dJXuGPYNdx4QYGiEwFUK1
+Public key: BOS6SrXp58JrrBZ7pY3ZVAuP5uHtmpezimt5mY2EfDbeJuNbTGqur
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+ --signature-provider arg (=EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV=KEY:5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+for account:eosio.bpay 
+
+Private key: 5K9EwWyZFv3TLosGFs6aLVrUKYFHQGEpCe2zmtBWLjRD7qywxxd
+Public key: BOS4tkJYcBMHraisLoJTHqYjMtS21bHwMcghjdxKsU7AgyVvpFiAw
+
+---------------------------------------------------------------------------------------------------------------------------------------
+for account:eosio.msig
+
+Private key: 5K432BxB8VdSarMprmMxZT6X33RMcrygxGGg7JY2TMV7NwhhLKa
+Public key: BOS7dDEKEPYBg3X8WqdNboiPxBD7DhFuqJ5qT3EKmYyY3t3S5cQX5
+--------------------------------------------------------------------------------------------------------------------------------------
+for account:eosio.names
+
+Private key: 5JSpSE7GGVh1463uaWYwPWXxv9zhAx8GkdSHqF1P7S617esLxxY
+Public key: BOS77u9spbaX95sn6u6zVsymU9RabQchfdvP7J2FDon42vVuCtzPh
+
+---------------------------------------------------------------------------------------------------------------------------------------
+for account:eosio.ram
+
+Private key: 5Jvkwm4VrX4JqJxXLEUw5Duqw5TqsmUcmMPjLj46cY7Kia98LKm
+Public key: BOS5L1LmumCwgDm9uT2hGh8WV7THB4vR28YF1DounrM5wtznTeEZm
+-------------------------------------------------------------------------------------------------------------------------------------
+for account:eosio.ramfee
+
+Private key: 5JwXzKAQrD3SNju7kbRxHujnmdSpDSRWHzXNKw5wfDroquhV9Uk
+Public key: BOS7EAi6mUxhHoaBtf4AVZwRD3vjUPg1XjvpKhETeG5KyxmE2GtBd
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+server1.ubuntu@18.218.11.228:8008
+
+wallet password:"PW5Hzt9RvBZdnpGbhWktyKcasRp2dYVmAvRBoJHkEZ1eeRQaBFiSm"
+
+
+Private key: 5JrGptQ87C94qdkPSj3MJ6wQRMRe1QHUtLDa9iD3QAp6EYKPhyw
+Public key: BOS8FU1o9N2pNXXUNavRqumYZp2xuTwqH2XFbZeP7txC7snC93PPT
+
+
+
+"PW5K4YZxxYAcYDEmsyCfRbNDAjjiKyguhYHtvPeVrBiGqA7TCqqbw"
+
+
+
+Private key: 5HxJB58vusBhYumeYuyfMHnSiCKoPKscPBjcicu6mcdm98nfPed
+Public key: BOS8EuNeQUaiAkcqFzemhW7h9jLS9262MBu6nySM5fWiDwdtDmaQy
+
+
+
+ 1) eosio.aaru
+Private key: 5KQEYPqSLkS5uEbReVFeJ6vDMrnyB9N6efYHrL2sge8BfGR1p2V
+Public key: BOS6k4sz2gepLyrFSnQZ5hhwyrTbkokhW1v7SQavD3kun5oeSxA4q
+
+
+2) eosio.aanu
+Private key: 5JxFJ7DNNNBP9xphqeM5XAeKFjQ7TjA7yWeykGdFkQ3pVDThByY
+Public key: BOS6ZaWGDBfp6RbGwLNCVqP393Sf5aYvWr1Maz8E5Z4uT3ntU6ULw
+
+3) eosio.aadu
+Private key: 5JmBvRftUKq6ZF1QhiynQYBqEysnuitAPQTH3dNaxu9J6nTUNtj
+Public key: BOS7uBRxkTnp8B28M89n3qpbyKKprUC6fWzknz7AdZjLHmDA4LHdU
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+server2   ubuntu@3.133.122.26:8001
+
+wallet password-PW5JmpSrhZu38DmRNiU96Wb14BXHSh1kcnvpAfELsXqjWJC7ndBTf
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+server3  ubuntu@18.189.141.95:8090
+
+
+
+
+
+
+
+eosio
+
+
+private key--5K7Za2svF13srBPVPxDEuzrugynJSNVNZi5zB1tHirhqhG2FFaD
+
+public key---BOS61u3va4gZjoeC54eKw3KDCPhqPgEQez24i6W8ea7zxw2JYqFUY
+
+
+
+
+
+
+
+wallet password
+
+"PW5J7rrmd9tDf3xcS3Ecs1yUK137pm1azV6pAcD7mHMa3H28Q37nT"
+
+Private key: 5HqwsoN3D6T1kzFcAkBS495Qi7qkkvT9FBna9qjEBtcaLLedzS6
+Public key: BOS8BuyVRPP6bK88jaLURpB3NhETvKXNt8B2AxXtUWcjCxS5EZ9Ze
+
+
+account -dos.tocken
+
+
+executed transaction: ce166dbb63eb01444d3dd1414fa3ffa710b41155e4b15cbb779d6b3ef69e2369  7952 bytes  1256 us
+#         eosio <= eosio::setcode               {"account":"dos.tocken","vmtype":0,"vmversion":0,"code":"0061736d0100000001a0011b60000060017e0060027...
+#         eosio <= eosio::setabi                {"account":"dos.tocken","abi":"0e656f73696f3a3a6162692f312e310008076163636f756e7400010762616c616e636...
+
+CREATE THE TOCKEN
+
+
+
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=Password
+POSTGRES_HOST=localhost
+POSTGRES_DATABASE=postgres
+POSTGRES_PORT=5431
+
+
+
+Cyperts1234
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=Password
+POSTGRES_HOST=localhost
+POSTGRES_DATABASE=postgres
+POSTGRES_PORT=5431
+
+
+WORKDIR /opt/eosio/bin/
+
+COPY ./scripts /opt/eosio/bin/scripts
+COPY ./contracts /opt/eosio/bin/contracts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

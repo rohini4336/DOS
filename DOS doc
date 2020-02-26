@@ -1,0 +1,83 @@
+
+
+smart contract link https://developers.eos.io/manuals/eosio.contracts/latest/index/#system-contracts-system-accounts-priviledged-accounts
+
+DOS smart contract
+
+-EOSIO.CDT (Contract Development Toolkit)
+ -git clone --recursive https://github.com/eosio/eosio.cdt
+ -cd eosio.cdt
+ -mkdir build
+ -cd build
+ -sudo apt-get update && sudo apt-get install build-essential
+ -cmake ..
+ -make -j8
+ -sudo make install
+
+-EOSIO.CONTRACT
+-git clone https://github.com/EOSIO/eosio.contracts.git
+-cd eosio.contracts
+-rm -rf build
+-mkdir build
+-cd build
+-cmake ..
+-make -j$( nproc )
+-cd ..
+
+
+link-https://github.com/EOSIO/eosio.cdt/tree/master/#binary-releases
+
+account dos.tocken
+
+Private key: 5K8TEvSquXrdXUQAZYQ25VngDqLGqP7eCHvFF6td6qB56Ft6cq7
+Public key: BOS6FokbMcn9nz357qG8tPNqhtKvqVCbjHqPocUPEBSDvUydLstMa
+
+executed transaction: ce166dbb63eb01444d3dd1414fa3ffa710b41155e4b15cbb779d6b3ef69e2369  7952 bytes  1256 us
+#         eosio <= eosio::setcode               {"account":"dos.tocken","vmtype":0,"vmversion":0,"code":"0061736d0100000001a0011b60000060017e0060027...
+#         eosio <= eosio::setabi                {"account":"dos.tocken","abi":"0e656f73696f3a3a6162692f312e310008076163636f756e7400010762616c616e636...
+
+
+create the tocken
+
+link-https://developers.eos.io/welcome/latest/getting-started/smart-contract-development/deploy-issue-and-transfer-tokens
+
+cleos push action eosio.token create '[ "alice", "1000000000.0000 SYS"]' -p eosio.token@active
+
+
+Issue Tokens
+
+cleos push action eosio.token issue '[ "alice", "100.0000 SYS", "memo" ]' -p alice@active
+
+
+
+account-akshata
+Private key: 5JNBz2P5K7U4J5iRF6vPaMP4oaVnUYvNSBvERndF9pRZEdzMV1f
+Public key: BOS4wczz9xNWXHNynmM37VkRVpo25pZD1xsbu2tStoXawWNpZE7YX
+
+
+-----------------------------------------------------
+
+server 2
+
+wallet: PW5JR66fTkEwm2yNGVPTVq9BaWgXer9rR3FBY6WsJX45ozkGfrN8H
+
+Private key: 5HpZ87YzjKP3U65pSYcH2TcZAPqXNi1Eghsp5xkFtAsnZA4MSzv
+Public key: BOS67rSQZRgkECYXHMYnkAUhiGwZHXU8u81nhXsjJE8aWtGQyAdQc
+
+
+account- dos2.token
+Private key: 5K4YWsHkXB7zc2GJF3XGgceS53C6TyrqTZJrbGXJsDYsGjRvShu
+Public key: BOS7TpyCYwPBTs72uhtVTNkww7zurofN5hnKWiFtrbdEEH4oLvDM1
+
+
+
+Reading WASM from /home/ubuntu/eosio.contracts/build/contracts/eosio.token/eosio.token.wasm...
+Publishing contract...
+executed transaction: 8cdd498fccb66897a2217c4d1629673518ef43346d5d0e2a42c72decf94e7802  7952 bytes  1114 us
+#         eosio <= eosio::setcode               {"account":"dos2.token","vmtype":0,"vmversion":0,"code":"0061736d0100000001a0011b60000060017e0060027...
+#         eosio <= eosio::setabi                {"account":"dos2.token","abi":"0e656f73696f3a3a6162692f312e310008076163636f756e7400010762616c616e636...
+warning: transaction executed locally, but may not be confirmed by the network yet         ] 
+
+
+
+
