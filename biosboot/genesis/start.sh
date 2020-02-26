@@ -27,6 +27,8 @@ fi
 --enable-stale-production \
 --p2p-peer-address localhost:9011 \
 --p2p-peer-address localhost:9012 \
---p2p-peer-address localhost:9013 \
 >> $DATADIR"/nodeos.log" 2>&1 & \
 echo $! > $DATADIR"/eosd.pid"
+
+
+
